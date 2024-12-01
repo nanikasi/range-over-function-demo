@@ -1,4 +1,4 @@
-package range_over_func_loop
+package main
 
 import (
 	"fmt"
